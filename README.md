@@ -38,8 +38,8 @@ The project follows a **Minimalist Brutalism** approach. By removing UI clutter,
 I'm always open to discussing 3D web development, creative coding, or potential collaborations.
 
 - **LinkedIn:** [Dinesh](https://www.linkedin.com/in/dineshwbx/)
-- **GitHub:** [@dineshwbx](https://github.com/dinehwbx)
-- **Portfolio:** [Live Site](https://dinehwbx.github.io/portfolio/)
+- **GitHub:** [@dineshwbx](https://github.com/dineshwbx)
+- **Portfolio:** [Live Site](https://dineshwbx.github.io/portfolio/)
 
 ---
 *Built with ❤️ by Dinesh*
