@@ -3,7 +3,7 @@
 A high-performance, interactive 3D portfolio showcasing my creative development work. Built with a modern stack focusing on smooth animations, immersive 3D experiences, and a minimalist design philosophy.
 
 ## 🔗 Live Demo
-Check out the live site here: [dineshwbx.github.io/portfolio/](https://dineswbx.github.io/portfolio/)
+Check out the live site here: [dineshwbx.github.io/portfolio/](https://dineshwbx.github.io/portfolio/)
 
 ---
 
