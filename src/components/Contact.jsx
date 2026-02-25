@@ -119,7 +119,7 @@ const Contact = () => {
 
     // Optimized payload for Web3Forms
     const formDataObj = {
-      access_key: "d3c61c0b-8ae8-445a-a644-2b3ecd240e9f",
+      access_key: "2c0f4966-f999-4786-a9d2-f3eac2bfdc78",
       name: formData.name,
       email: formData.email,
       message: formData.message,
