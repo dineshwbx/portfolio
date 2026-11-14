@@ -129,17 +129,17 @@ const Home = () => {
           </h1>
 
           <div className="flex flex-wrap items-center justify-center lg:justify-start gap-3">
-            <div className="flex items-center space-x-2.5 px-4 py-1.5 bg-purple-500/5 rounded-full border border-purple-500/10">
-              <Brain size={16} className="text-yellow-400" />
-              <span className="text-gray-300 text-sm font-medium">
-                AI/ML Engineering
-              </span>
-            </div>
-            <span className="text-gray-600 font-bold">+</span>
             <div className="flex items-center space-x-2.5 px-4 py-1.5 bg-blue-500/5 rounded-full border border-blue-500/10">
               <Code2 size={16} className="text-blue-400" />
               <span className="text-gray-300 text-sm font-medium">
                 Developer
+              </span>
+            </div>
+            <span className="text-gray-600 font-bold">+</span>
+            <div className="flex items-center space-x-2.5 px-4 py-1.5 bg-purple-500/5 rounded-full border border-purple-500/10">
+              <Brain size={16} className="text-yellow-400" />
+              <span className="text-gray-300 text-sm font-medium">
+                AI/ML Engineering
               </span>
             </div>
           </div>

@@ -104,7 +104,7 @@ const Project = () => {
       description: 'Comprehensive diagnostic lab management system with online test booking, report viewing, and patient management.',
       image: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=1000',
       tags: ['React', 'Firebase', 'Tailwind CSS', 'Redux', 'PDF Generation'],
-      liveUrl: 'https://neo-lab-1711.web.app/',
+      liveUrl: 'https://lab-neo.web.app/',
       color: 'from-purple-600 to-pink-600',
       icon: Microscope,
       gradient: 'from-purple-500/20 to-pink-500/20',
